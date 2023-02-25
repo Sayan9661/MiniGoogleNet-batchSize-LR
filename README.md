@@ -4,7 +4,7 @@ Part of High performance machine learning.
 
 ## Learning Rate
 testing effects of learning rate : [1e-10, 1e+1] on loss/accuracy using LearningRateFinder<br>
-<img src="">
+<img src="./LR finder">
 
 ## Train model with Cyclical learning rate policy (with exponential decay) with batch size 64 and 𝑙𝑟𝑚𝑖𝑛  and  𝑙𝑟𝑚𝑎𝑥 found above:
 <img src="">
