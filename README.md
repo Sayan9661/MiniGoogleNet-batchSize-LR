@@ -7,7 +7,8 @@ testing effects of learning rate : [1e-10, 1e+1] on loss/accuracy using Learning
 <img src="LR finder.jpg">
 
 ## Train model with Cyclical learning rate policy (with exponential decay) with batch size 64 and 𝑙𝑟𝑚𝑖𝑛  and  𝑙𝑟𝑚𝑎𝑥 found above:
-<img src="">
+<img src="cyclic LR policy loss.jpg">
+<img src="cyclic LR policy accuracy.jpg">
 
 ## Batch Size
 Tested effects of batch size of :32,64,128,256,512,1024,2048,4096,8192,16384<br>
