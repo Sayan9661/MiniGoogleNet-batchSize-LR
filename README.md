@@ -11,7 +11,7 @@ testing effects of learning rate : [1e-10, 1e+1] on loss/accuracy using Learning
 
 ## Batch Size
 Tested effects of batch size of :32,64,128,256,512,1024,2048,4096,8192,16384<br>
-<img src="">
+<img src="batch size effect.jpg">
 
 ## Requirements
 Tensorflow,Keras,sklearn,Numpy,Pandas,Seaborn
